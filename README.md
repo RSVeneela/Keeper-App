@@ -18,7 +18,7 @@ Fork a copy of the repository and install dependencies by running 'npm install'.
 Visit the  application and click within the create note area to add a title and related text for the note. Once ready to add the note, click the plus icon. Notes on the page can be deleted by clicking on the trash can icon.
 
 ## Screenshot
-![Screenshot of the main page where notes can be added and viewed.](./src/assets/images/screenshot-01.png)
+<img width="1440" alt="Keeper App1" src="https://user-images.githubusercontent.com/84373426/151705105-c167f6da-26fd-450b-8e5f-1be8ca4617fd.png">
 
 ## Questions
 Please feel free to contact me if you have any questions.
